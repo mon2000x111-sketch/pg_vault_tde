@@ -1,4 +1,4 @@
- # pg_vault_tde
+# pg_vault_tde
 
 [![build main](https://img.shields.io/github/actions/workflow/status/labmiriade/pg_vault_tde/ci.yml?branch=main&label=build%20main)](https://github.com/labmiriade/pg_vault_tde/actions/workflows/ci.yml?query=branch%3Amain)
 [![build develop](https://img.shields.io/github/actions/workflow/status/labmiriade/pg_vault_tde/ci.yml?branch=develop&label=build%20develop)](https://github.com/labmiriade/pg_vault_tde/actions/workflows/ci.yml?query=branch%3Adevelop)
